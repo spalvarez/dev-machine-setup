@@ -1,0 +1,46 @@
+# general utils
+brew 'adr-tools'
+brew 'asdf'
+brew 'fzf'
+brew 'pre-commit'
+brew 'docker'
+brew 'shellcheck'
+brew 'gitleaks'
+brew 'pinentry-mac'
+brew 'spaceship'
+brew 'saml2aws'
+brew 'teller'
+brew 'tree'
+brew 'watch'
+brew 'wget'
+brew 'yq'
+
+# languages support
+brew 'pyenv'
+brew 'rbenv'
+brew 'tfenv'
+brew "jq"
+brew 'go'
+brew 'staticcheck'
+brew 'golangci-lint'
+brew 'bats-core'
+
+# cloud vendors
+brew 'awscli'
+brew 'aws-vault'
+brew 'vault'
+brew 'eksctl'
+
+# cloud-native development
+brew 'circleci'
+brew 'colima'
+brew 'kind'
+brew 'cosign'
+brew 'kubectl'
+brew 'kubectx'
+brew 'kubens'
+brew 'helm'
+brew 'krew'
+brew 'tflint'
+brew 'istioctl'
+brew 'opa'
